@@ -1,0 +1,9 @@
+[KSplash Theme: ghostbsd]
+Name = GhostBSD Splash Screen
+Description =Elasun and Air Splash Screen modified for GhostBSD 
+Version = 1.0
+Author = Nuno Pinheiro <nuno@oxygen-icons.org>, Riccardo Iaconelli <riccardo@kde.org>, Marco Martin <notmart@gmail.com> and Ovidiu Angelescu <angelescuo@yahoo.com>
+Homepage = http://www.ghostbsd.org
+
+# Theme behaviour settings.
+Engine = KSplashX
